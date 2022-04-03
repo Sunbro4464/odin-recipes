@@ -1,2 +1,3 @@
 # odin-recipes
 Recipe Website
+In this project, I was able to clearly structure a very basic website. In doing so, I was able to learn and practice the git workflow along with gaining more confidence in working with html basics. I feel confident in my ability to move forward with my learning and expand on my skills, and can effectively identify any problems I have and research solutions efficiently. I'm very glad I could use this opportunity to learn and make a habit of the cycle of git commits and pushes.
